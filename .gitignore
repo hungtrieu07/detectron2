@@ -51,3 +51,7 @@ _darcs
 /projects/*/datasets
 /models
 /snippet
+
+HumanTraffic-19
+HumanTraffic-20
+download_dataset.py
